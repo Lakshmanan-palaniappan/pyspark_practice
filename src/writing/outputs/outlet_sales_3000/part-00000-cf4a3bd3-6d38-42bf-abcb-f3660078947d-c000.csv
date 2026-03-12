@@ -1,0 +1,567 @@
+Item_Identifier,Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifier,Outlet_Establishment_Year,Outlet_Size,Outlet_Location_Type,Outlet_Type,Item_Outlet_Sales
+FDZ47,,Regular,0.078912473,Baking Goods,99.9042,OUT027,1985,Medium,Tier 3,Supermarket Type3,3273.7386
+FDJ34,11.8,Regular,0.093655728,Snack Foods,127.1704,OUT046,1997,Small,Tier 1,Supermarket Type1,3004.0896
+FDZ15,13.1,Low Fat,0.020903193,Dairy,119.2782,OUT049,1999,Medium,Tier 1,Supermarket Type1,3098.6332
+FDU14,17.75,Low Fat,0.034752647,Dairy,248.775,OUT046,1997,Small,Tier 1,Supermarket Type1,3745.125
+FDA20,6.78,Low Fat,0.066565644,Fruits and Vegetables,185.324,OUT013,1987,High,Tier 3,Supermarket Type1,3914.904
+FDF28,,Regular,0.037681359,Frozen Foods,125.1046,OUT027,1985,Medium,Tier 3,Supermarket Type3,3859.6426
+FDT52,9.695,Regular,0.047503318,Frozen Foods,244.6144,OUT049,1999,Medium,Tier 1,Supermarket Type1,3185.1872
+NCQ42,20.35,Low Fat,0.039428167,Household,127.9678,OUT018,2009,Medium,Tier 3,Supermarket Type2,3560.6984
+FDE26,9.3,Low Fat,0.088931701,Canned,143.3786,OUT013,1987,High,Tier 3,Supermarket Type1,3034.0506
+DRH01,,Low Fat,0.097429924,Soft Drinks,172.8738,OUT027,1985,Medium,Tier 3,Supermarket Type3,3649.2498
+FDF04,17.5,LF,0.013658248,Frozen Foods,256.3304,OUT049,1999,Medium,Tier 1,Supermarket Type1,6199.9296
+FDJ26,15.3,Regular,0.084749164,Canned,215.5218,OUT035,2004,Small,Tier 2,Supermarket Type1,4060.7142
+FDW19,,Regular,0.038313981,Fruits and Vegetables,109.957,OUT027,1985,Medium,Tier 3,Supermarket Type3,4504.137
+FDT28,13.3,Low Fat,0.06356617,Frozen Foods,151.3708,OUT046,1997,Small,Tier 1,Supermarket Type1,3611.2992
+FDO20,12.85,Regular,0.152001201,Fruits and Vegetables,252.3382,OUT013,1987,High,Tier 3,Supermarket Type1,6056.1168
+NCT05,10.895,Low Fat,0.020934413,Health and Hygiene,256.5672,OUT013,1987,High,Tier 3,Supermarket Type1,4090.6752
+FDD44,8.05,Regular,0.078719835,Fruits and Vegetables,258.5646,OUT018,2009,Medium,Tier 3,Supermarket Type2,3091.9752
+FDP03,5.15,Regular,0.06117708,Meat,121.8388,OUT046,1997,Small,Tier 1,Supermarket Type1,3219.8088
+FDX56,17.1,Regular,0.074059474,Fruits and Vegetables,209.0638,OUT046,1997,Small,Tier 1,Supermarket Type1,3520.0846
+FDA37,7.81,Regular,0.055216312,Canned,125.5046,OUT035,2004,Small,Tier 2,Supermarket Type1,3237.1196
+FDR47,,Low Fat,0.087045086,Breads,196.7794,OUT027,1985,Medium,Tier 3,Supermarket Type3,6242.5408
+FDV03,17.6,Low Fat,0.058209079,Meat,153.6314,OUT045,2002,,Tier 2,Supermarket Type1,5274.4676
+FDX31,20.35,Regular,0.014909465,Fruits and Vegetables,232.3958,OUT017,2007,,Tier 2,Supermarket Type1,6076.0908
+NCF18,18.35,Low Fat,0.089163056,Household,191.3504,OUT045,2002,,Tier 2,Supermarket Type1,3259.7568
+FDI07,12.35,Regular,0.033813351,Meat,198.1426,OUT049,1999,Medium,Tier 1,Supermarket Type1,3757.1094
+FDE36,5.26,Regular,0.041837331,Baking Goods,161.8868,OUT049,1999,Medium,Tier 1,Supermarket Type1,5077.3908
+FDX07,19.2,Regular,0,Fruits and Vegetables,184.595,OUT018,2009,Medium,Tier 3,Supermarket Type2,3844.995
+FDU32,,Low Fat,0.025841875,Fruits and Vegetables,120.7414,OUT027,1985,Medium,Tier 3,Supermarket Type3,4386.2904
+FDR12,12.6,Regular,0.03150851,Baking Goods,170.5764,OUT013,1987,High,Tier 3,Supermarket Type1,3779.0808
+FDN32,17.5,Low Fat,0.015623754,Fruits and Vegetables,182.6266,OUT018,2009,Medium,Tier 3,Supermarket Type2,3135.2522
+FDM36,,Regular,0.058446424,Baking Goods,172.1422,OUT027,1985,Medium,Tier 3,Supermarket Type3,5518.1504
+FDY08,,Regular,0.170246782,Fruits and Vegetables,141.5838,OUT027,1985,Medium,Tier 3,Supermarket Type3,3231.1274
+FDF40,,Regular,0.022403117,Dairy,250.9092,OUT027,1985,Medium,Tier 3,Supermarket Type3,8217.3036
+NCA54,16.5,Low Fat,0.036715907,Household,180.0318,OUT045,2002,,Tier 2,Supermarket Type1,3969.4996
+FDP27,,Low Fat,0.118872194,Meat,188.353,OUT027,1985,Medium,Tier 3,Supermarket Type3,5313.084
+FDK03,12.6,Regular,0.074338562,Dairy,255.5356,OUT017,2007,,Tier 2,Supermarket Type1,9664.7528
+NCQ17,,Low Fat,0.116366304,Health and Hygiene,158.363,OUT027,1985,Medium,Tier 3,Supermarket Type3,4068.038
+FDM34,,Low Fat,0.067120954,Snack Foods,132.9626,OUT027,1985,Medium,Tier 3,Supermarket Type3,3279.065
+FDZ45,14.1,Low Fat,0.067148407,Snack Foods,200.4084,OUT018,2009,Medium,Tier 3,Supermarket Type2,3968.168
+FDI50,,Regular,0.030693309,Canned,228.0352,OUT027,1985,Medium,Tier 3,Supermarket Type3,10306.584
+FDV25,5.905,Low Fat,0,Canned,222.5456,OUT045,2002,,Tier 2,Supermarket Type1,5305.0944
+NCY18,7.285,Low Fat,0.031200065,Household,174.7054,OUT049,1999,Medium,Tier 1,Supermarket Type1,6303.7944
+FDT32,,Regular,0.065316099,Fruits and Vegetables,189.9214,OUT027,1985,Medium,Tier 3,Supermarket Type3,5087.3778
+FDV49,10,Low Fat,0.025879577,Canned,265.2226,OUT045,2002,,Tier 2,Supermarket Type1,5815.0972
+NCE18,10,Low Fat,0.021407511,Household,248.175,OUT013,1987,High,Tier 3,Supermarket Type1,3495.45
+NCV06,,Low Fat,0.066358426,Household,195.2478,OUT027,1985,Medium,Tier 3,Supermarket Type3,7168.6686
+FDF50,,Low Fat,0.116762173,Canned,198.9768,OUT027,1985,Medium,Tier 3,Supermarket Type3,4729.8432
+NCE18,10,Low Fat,0.021512619,Household,247.775,OUT018,2009,Medium,Tier 3,Supermarket Type2,3745.125
+FDA32,14,Low Fat,0.030216783,Fruits and Vegetables,216.6192,OUT018,2009,Medium,Tier 3,Supermarket Type2,3020.0688
+NCC18,19.1,LF,0.177545624,Household,172.4422,OUT049,1999,Medium,Tier 1,Supermarket Type1,3621.2862
+FDS11,7.05,Regular,0.055558509,Breads,224.7088,OUT046,1997,Small,Tier 1,Supermarket Type1,3131.9232
+FDC02,21.35,Low Fat,0.068822477,Canned,258.3278,OUT046,1997,Small,Tier 1,Supermarket Type1,7028.8506
+FDZ16,16.85,Regular,0.159722816,Frozen Foods,194.1478,OUT013,1987,High,Tier 3,Supermarket Type1,5812.434
+FDR22,,Regular,0.018472714,Snack Foods,109.9544,OUT027,1985,Medium,Tier 3,Supermarket Type3,5257.1568
+NCE43,,LF,0.102941345,Household,171.2448,OUT027,1985,Medium,Tier 3,Supermarket Type3,4602.0096
+FDK40,7.035,Low Fat,0,Frozen Foods,262.691,OUT013,1987,High,Tier 3,Supermarket Type1,6048.793
+FDU51,20.2,Regular,0.096433359,Meat,178.5028,OUT013,1987,High,Tier 3,Supermarket Type1,4604.6728
+FDA15,9.3,Low Fat,0.016009057,Dairy,250.6092,OUT013,1987,High,Tier 3,Supermarket Type1,6474.2392
+DRC36,13,Regular,0.045239326,Soft Drinks,174.1054,OUT017,2007,,Tier 2,Supermarket Type1,4377.635
+NCE42,21.1,Low Fat,0.010602292,Household,235.3958,OUT046,1997,Small,Tier 1,Supermarket Type1,3271.7412
+FDX36,9.695,Regular,0.128543405,Baking Goods,226.5404,OUT045,2002,,Tier 2,Supermarket Type1,4500.808
+NCS53,,Low Fat,0.089343433,Health and Hygiene,157.3604,OUT027,1985,Medium,Tier 3,Supermarket Type3,6021.4952
+FDI41,18.5,Regular,0.062245149,Frozen Foods,145.8418,OUT035,2004,Small,Tier 2,Supermarket Type1,5591.3884
+FDF57,,Regular,0.058542509,Fruits and Vegetables,168.6448,OUT027,1985,Medium,Tier 3,Supermarket Type3,3408.896
+NCO07,9.06,Low Fat,0.009816092,Others,211.856,OUT018,2009,Medium,Tier 3,Supermarket Type2,3621.952
+FDV21,11.5,Low Fat,0.171050595,Snack Foods,126.3704,OUT035,2004,Small,Tier 2,Supermarket Type1,3880.2824
+DRC27,13.8,Low Fat,0.058192802,Dairy,246.9802,OUT049,1999,Medium,Tier 1,Supermarket Type1,5896.3248
+FDB58,10.5,reg,0.013485235,Snack Foods,140.0154,OUT013,1987,High,Tier 3,Supermarket Type1,3119.9388
+NCK19,9.8,Low Fat,0.090834158,Others,192.2478,OUT018,2009,Medium,Tier 3,Supermarket Type2,4068.7038
+NCG07,12.3,Low Fat,0.052502049,Household,190.853,OUT046,1997,Small,Tier 1,Supermarket Type1,4364.319
+FDI45,13.1,LF,0.037549969,Fruits and Vegetables,176.1054,OUT013,1987,High,Tier 3,Supermarket Type1,4027.4242
+NCG54,12.1,Low Fat,0.079968115,Household,170.8106,OUT045,2002,,Tier 2,Supermarket Type1,4619.9862
+FDW56,7.68,Low Fat,0.071010513,Fruits and Vegetables,190.9162,OUT049,1999,Medium,Tier 1,Supermarket Type1,5195.2374
+FDA52,,Regular,0.127800388,Frozen Foods,177.037,OUT027,1985,Medium,Tier 3,Supermarket Type3,4587.362
+FDP23,6.71,Low Fat,0.035731825,Breads,218.3166,OUT018,2009,Medium,Tier 3,Supermarket Type2,5660.6316
+DRM35,9.695,LF,0.070587419,Hard Drinks,176.9344,OUT045,2002,,Tier 2,Supermarket Type1,5888.3352
+FDJ38,8.6,Regular,0.040205535,Canned,188.753,OUT046,1997,Small,Tier 1,Supermarket Type1,7590.12
+FDD44,8.05,Regular,0.078400465,Fruits and Vegetables,259.0646,OUT046,1997,Small,Tier 1,Supermarket Type1,4380.2982
+FDB27,,Low Fat,0.055121892,Dairy,196.7768,OUT027,1985,Medium,Tier 3,Supermarket Type3,5912.304
+FDB08,,Low Fat,0.030952737,Fruits and Vegetables,160.1578,OUT027,1985,Medium,Tier 3,Supermarket Type3,3048.6982
+FDT58,,Low Fat,0.085538477,Snack Foods,169.2816,OUT027,1985,Medium,Tier 3,Supermarket Type3,3523.4136
+DRI39,,Low Fat,0.096592065,Dairy,54.893,OUT027,1985,Medium,Tier 3,Supermarket Type3,3112.615
+FDD22,10,Low Fat,0.099804623,Snack Foods,113.7544,OUT049,1999,Medium,Tier 1,Supermarket Type1,3243.7776
+FDS25,,Regular,0.139330557,Canned,109.5228,OUT027,1985,Medium,Tier 3,Supermarket Type3,3426.2068
+DRM11,6.57,Low Fat,0.066338717,Hard Drinks,261.4278,OUT018,2009,Medium,Tier 3,Supermarket Type2,4165.2448
+FDE17,20.1,Regular,0.054763518,Frozen Foods,150.9366,OUT017,2007,,Tier 2,Supermarket Type1,3476.1418
+FDY58,11.65,Low Fat,0.040144377,Snack Foods,228.9694,OUT017,2007,,Tier 2,Supermarket Type1,6622.7126
+FDA04,11.3,Regular,0.067107448,Frozen Foods,258.1962,OUT017,2007,,Tier 2,Supermarket Type1,4402.9354
+FDN44,,Low Fat,0.022685222,Fruits and Vegetables,161.592,OUT027,1985,Medium,Tier 3,Supermarket Type3,4314.384
+FDA46,13.6,Low Fat,0.117537563,Snack Foods,195.4136,OUT013,1987,High,Tier 3,Supermarket Type1,5443.5808
+FDA03,18.5,Regular,0.045534457,Dairy,146.3102,OUT049,1999,Medium,Tier 1,Supermarket Type1,3645.255
+FDS44,12.65,Regular,0.156286566,Fruits and Vegetables,238.9538,OUT049,1999,Medium,Tier 1,Supermarket Type1,4086.0146
+FDZ23,,Regular,0.067175915,Baking Goods,187.124,OUT027,1985,Medium,Tier 3,Supermarket Type3,3728.48
+FDZ31,,Regular,0.112668963,Fruits and Vegetables,191.0504,OUT027,1985,Medium,Tier 3,Supermarket Type3,5752.512
+NCK18,9.6,Low Fat,0,Household,163.9184,OUT035,2004,Small,Tier 2,Supermarket Type1,4293.0784
+FDQ32,17.85,Regular,0.046680961,Fruits and Vegetables,121.9388,OUT049,1999,Medium,Tier 1,Supermarket Type1,3962.8416
+FDU19,8.77,reg,0.046962004,Fruits and Vegetables,173.8422,OUT018,2009,Medium,Tier 3,Supermarket Type2,3448.844
+FDX49,,reg,0.101338651,Canned,232.63,OUT027,1985,Medium,Tier 3,Supermarket Type3,5359.69
+NCN26,10.85,LF,0.028674471,Household,115.1808,OUT035,2004,Small,Tier 2,Supermarket Type1,3866.9664
+DRZ24,7.535,Low Fat,0.082250143,Soft Drinks,118.344,OUT017,2007,,Tier 2,Supermarket Type1,3115.944
+FDM21,,Low Fat,0.064052392,Snack Foods,256.1646,OUT027,1985,Medium,Tier 3,Supermarket Type3,7472.2734
+NCU54,8.88,Low Fat,0.099024124,Household,208.527,OUT018,2009,Medium,Tier 3,Supermarket Type2,3145.905
+FDG12,,Regular,0.006295472,Baking Goods,122.4098,OUT027,1985,Medium,Tier 3,Supermarket Type3,3735.8038
+FDM28,15.7,Low Fat,0.045274134,Frozen Foods,177.966,OUT049,1999,Medium,Tier 1,Supermarket Type1,3415.554
+FDY04,17.7,Regular,0.042562588,Frozen Foods,165.021,OUT045,2002,,Tier 2,Supermarket Type1,3425.541
+FDB40,17.5,Regular,0.007538459,Dairy,144.2102,OUT035,2004,Small,Tier 2,Supermarket Type1,4082.6856
+FDK45,11.65,Low Fat,0.033926852,Seafood,111.586,OUT045,2002,,Tier 2,Supermarket Type1,3395.58
+FDJ38,8.6,Regular,0.040432954,Canned,191.653,OUT017,2007,,Tier 2,Supermarket Type1,3795.06
+FDC17,12.15,Low Fat,0.015548178,Frozen Foods,211.2928,OUT017,2007,,Tier 2,Supermarket Type1,5049.4272
+FDW12,8.315,Regular,0.035773394,Baking Goods,144.3444,OUT017,2007,,Tier 2,Supermarket Type1,3483.4656
+FDI19,15.1,Low Fat,0.052339069,Meat,242.7512,OUT046,1997,Small,Tier 1,Supermarket Type1,4119.9704
+FDW44,9.5,Regular,0.035350045,Fruits and Vegetables,169.7448,OUT017,2007,,Tier 2,Supermarket Type1,3579.3408
+FDH20,16.1,Regular,0.024928351,Fruits and Vegetables,95.141,OUT013,1987,High,Tier 3,Supermarket Type1,3089.312
+FDX11,16,Regular,0.107186944,Baking Goods,181.9634,OUT018,2009,Medium,Tier 3,Supermarket Type2,3453.5046
+FDZ36,6.035,Regular,0.065783783,Baking Goods,188.224,OUT046,1997,Small,Tier 1,Supermarket Type1,5779.144
+FDE34,9.195,Low Fat,0.108059141,Snack Foods,181.7634,OUT049,1999,Medium,Tier 1,Supermarket Type1,6179.9556
+DRK47,7.905,Low Fat,0.064163983,Hard Drinks,229.9694,OUT049,1999,Medium,Tier 1,Supermarket Type1,4567.388
+FDN23,,Regular,0.075142108,Breads,145.8444,OUT027,1985,Medium,Tier 3,Supermarket Type3,3773.7544
+FDW47,15,Low Fat,0.046336634,Breads,120.0414,OUT013,1987,High,Tier 3,Supermarket Type1,3533.4006
+FDD47,7.6,reg,0.142699588,Starchy Foods,171.7448,OUT045,2002,,Tier 2,Supermarket Type1,4431.5648
+DRJ47,,Low Fat,0.04403602,Hard Drinks,173.308,OUT027,1985,Medium,Tier 3,Supermarket Type3,6751.212
+NCW30,5.21,Low Fat,0.011072173,Household,257.8962,OUT017,2007,,Tier 2,Supermarket Type1,4402.9354
+NCM54,17.7,LF,0.051146565,Household,127.3678,OUT018,2009,Medium,Tier 3,Supermarket Type2,3306.3628
+FDS58,9.285,Regular,0.021002641,Snack Foods,161.1578,OUT035,2004,Small,Tier 2,Supermarket Type1,4011.445
+FDD03,13.3,Low Fat,0.080131363,Dairy,234.03,OUT018,2009,Medium,Tier 3,Supermarket Type2,4194.54
+NCY18,7.285,Low Fat,0.031151633,Household,173.2054,OUT046,1997,Small,Tier 1,Supermarket Type1,4902.9512
+FDR21,19.7,Low Fat,0.066935459,Snack Foods,177.537,OUT046,1997,Small,Tier 1,Supermarket Type1,3175.866
+DRI59,,Low Fat,0.040636926,Hard Drinks,224.6088,OUT027,1985,Medium,Tier 3,Supermarket Type3,4474.176
+FDV01,19.2,Regular,0,Canned,153.3314,OUT017,2007,,Tier 2,Supermarket Type1,3257.7594
+NCI06,11.3,Low Fat,0.04767798,Household,181.466,OUT013,1987,High,Tier 3,Supermarket Type1,3775.086
+FDA35,,Regular,0.05357685,Baking Goods,122.2072,OUT027,1985,Medium,Tier 3,Supermarket Type3,3552.7088
+FDW28,18.25,Low Fat,0,Frozen Foods,196.8452,OUT046,1997,Small,Tier 1,Supermarket Type1,3327.6684
+FDC04,,Low Fat,0.044767801,Dairy,241.8854,OUT027,1985,Medium,Tier 3,Supermarket Type3,4592.0226
+FDG14,9,Regular,0.050786366,Canned,152.2024,OUT017,2007,,Tier 2,Supermarket Type1,3643.2576
+FDF12,,Low Fat,0.082028694,Baking Goods,148.6076,OUT027,1985,Medium,Tier 3,Supermarket Type3,3990.8052
+FDN56,5.46,Regular,0.107662745,Fruits and Vegetables,143.8786,OUT017,2007,,Tier 2,Supermarket Type1,4334.358
+FDD11,,Low Fat,0.03046847,Starchy Foods,254.704,OUT027,1985,Medium,Tier 3,Supermarket Type3,3036.048
+FDS16,15.15,Regular,0.066551268,Frozen Foods,144.676,OUT017,2007,,Tier 2,Supermarket Type1,3954.852
+FDJ57,7.42,Regular,0.021569566,Seafood,184.8582,OUT035,2004,Small,Tier 2,Supermarket Type1,4643.955
+FDN38,6.615,Regular,0.091895319,Canned,248.6408,OUT013,1987,High,Tier 3,Supermarket Type1,3504.7712
+NCH55,16.35,Low Fat,0.034726222,Household,125.602,OUT049,1999,Medium,Tier 1,Supermarket Type1,3036.048
+FDI46,9.5,Low Fat,0.074460855,Snack Foods,253.6724,OUT049,1999,Medium,Tier 1,Supermarket Type1,5033.448
+FDJ15,11.35,Regular,0.023322478,Dairy,182.5608,OUT046,1997,Small,Tier 1,Supermarket Type1,3307.6944
+FDA55,,Regular,0.056713056,Fruits and Vegetables,223.8088,OUT027,1985,Medium,Tier 3,Supermarket Type3,5592.72
+NCP53,14.75,Low Fat,0.033076388,Health and Hygiene,237.2906,OUT017,2007,,Tier 2,Supermarket Type1,3089.9778
+FDS08,,Low Fat,0.056685383,Fruits and Vegetables,178.437,OUT027,1985,Medium,Tier 3,Supermarket Type3,3175.866
+FDX35,5.035,Regular,0,Breads,228.2036,OUT046,1997,Small,Tier 1,Supermarket Type1,4781.7756
+FDY56,16.35,Regular,0.062508438,Fruits and Vegetables,227.1062,OUT049,1999,Medium,Tier 1,Supermarket Type1,5642.655
+FDI19,15.1,Low Fat,0.052329172,Meat,243.1512,OUT035,2004,Small,Tier 2,Supermarket Type1,4604.6728
+FDX28,,Low Fat,0,Frozen Foods,100.7042,OUT027,1985,Medium,Tier 3,Supermarket Type3,3174.5344
+FDQ40,,Regular,0.035853059,Frozen Foods,176.8712,OUT027,1985,Medium,Tier 3,Supermarket Type3,3691.1952
+FDV59,13.35,Low Fat,0.048017962,Breads,219.6166,OUT035,2004,Small,Tier 2,Supermarket Type1,3483.4656
+FDQ28,,Regular,0.060134441,Frozen Foods,153.0656,OUT027,1985,Medium,Tier 3,Supermarket Type3,6024.1584
+DRD15,10.6,Low Fat,0.056911107,Dairy,233.9642,OUT045,2002,,Tier 2,Supermarket Type1,3717.8272
+FDR27,15.1,Regular,0.096644015,Meat,131.9942,OUT017,2007,,Tier 2,Supermarket Type1,3047.3666
+FDJ44,12.3,Regular,0.106542886,Fruits and Vegetables,173.2396,OUT045,2002,,Tier 2,Supermarket Type1,3139.9128
+DRP35,,Low Fat,0.090427268,Hard Drinks,126.2336,OUT027,1985,Medium,Tier 3,Supermarket Type3,3195.84
+FDT09,,Regular,0.012203915,Snack Foods,133.2284,OUT027,1985,Medium,Tier 3,Supermarket Type3,4350.3372
+FDN22,18.85,Regular,0.138190277,Snack Foods,250.8724,OUT013,1987,High,Tier 3,Supermarket Type1,3775.086
+NCS29,9,Low Fat,0.069487587,Health and Hygiene,266.6884,OUT013,1987,High,Tier 3,Supermarket Type1,3974.826
+FDY55,16.75,Low Fat,0.081252534,Fruits and Vegetables,256.4988,OUT013,1987,High,Tier 3,Supermarket Type1,7452.9652
+FDO25,6.3,Low Fat,0.127449031,Canned,210.527,OUT046,1997,Small,Tier 1,Supermarket Type1,6291.81
+FDQ33,13.35,Low Fat,0.091348964,Snack Foods,150.3708,OUT049,1999,Medium,Tier 1,Supermarket Type1,4363.6532
+FDW12,,Regular,0.035399923,Baking Goods,144.5444,OUT027,1985,Medium,Tier 3,Supermarket Type3,4064.0432
+NCD18,16,Low Fat,0.072608647,Household,228.3668,OUT013,1987,High,Tier 3,Supermarket Type1,5298.4364
+FDY55,16.75,Low Fat,0.081304829,Fruits and Vegetables,258.4988,OUT035,2004,Small,Tier 2,Supermarket Type1,4111.9808
+FDG45,8.1,Low Fat,0.128760294,Fruits and Vegetables,213.7902,OUT017,2007,,Tier 2,Supermarket Type1,5946.9256
+NCM55,15.6,Low Fat,0.066726133,Others,185.8924,OUT046,1997,Small,Tier 1,Supermarket Type1,3516.7556
+FDE50,19.7,Regular,0.016238512,Canned,186.4556,OUT045,2002,,Tier 2,Supermarket Type1,5069.4012
+DRK23,8.395,Low Fat,0.07191675,Hard Drinks,254.804,OUT013,1987,High,Tier 3,Supermarket Type1,7843.124
+FDT11,5.94,Regular,0.029372367,Breads,186.7556,OUT046,1997,Small,Tier 1,Supermarket Type1,3942.8676
+FDB27,7.575,Low Fat,0.055390121,Dairy,195.2768,OUT046,1997,Small,Tier 1,Supermarket Type1,5715.2272
+FDS16,15.15,Regular,0.066121873,Frozen Foods,145.676,OUT013,1987,High,Tier 3,Supermarket Type1,3661.9
+NCR05,,Low Fat,0.054366282,Health and Hygiene,199.6084,OUT027,1985,Medium,Tier 3,Supermarket Type3,7142.7024
+FDN39,,Regular,0.065203103,Meat,166.0816,OUT027,1985,Medium,Tier 3,Supermarket Type3,5033.448
+FDM36,11.65,Regular,0.058730831,Baking Goods,171.9422,OUT046,1997,Small,Tier 1,Supermarket Type1,3448.844
+FDX02,16,Low Fat,0.057012606,Dairy,225.0404,OUT013,1987,High,Tier 3,Supermarket Type1,5851.0504
+FDR37,16.5,Regular,0.066237024,Breakfast,183.1292,OUT035,2004,Small,Tier 2,Supermarket Type1,6385.022
+FDV49,,Low Fat,0.025702129,Canned,262.6226,OUT027,1985,Medium,Tier 3,Supermarket Type3,7136.7102
+FDO11,8,Regular,0.030264897,Breads,250.3092,OUT046,1997,Small,Tier 1,Supermarket Type1,6723.2484
+FDY51,12.5,Low Fat,0.081260969,Meat,221.7798,OUT049,1999,Medium,Tier 1,Supermarket Type1,3085.3172
+FDY55,16.75,Low Fat,0.081485126,Fruits and Vegetables,258.0988,OUT045,2002,,Tier 2,Supermarket Type1,8994.958
+FDG60,20.35,Low Fat,0.060688248,Baking Goods,234.2616,OUT035,2004,Small,Tier 2,Supermarket Type1,4687.232
+FDU56,,Low Fat,0,Fruits and Vegetables,184.7266,OUT027,1985,Medium,Tier 3,Supermarket Type3,8114.7704
+FDI33,,Low Fat,0.028281197,Snack Foods,90.2146,OUT027,1985,Medium,Tier 3,Supermarket Type3,3648.584
+FDC17,12.15,Low Fat,0.015457803,Frozen Foods,209.9928,OUT035,2004,Small,Tier 2,Supermarket Type1,5259.82
+NCZ30,,LF,0.026058181,Household,121.9098,OUT027,1985,Medium,Tier 3,Supermarket Type3,3374.2744
+NCU42,9,Low Fat,0.019502965,Household,169.4474,OUT035,2004,Small,Tier 2,Supermarket Type1,4211.185
+FDK52,18.25,Low Fat,0.079152918,Frozen Foods,223.8062,OUT013,1987,High,Tier 3,Supermarket Type1,4288.4178
+FDF29,15.1,Regular,0.019917598,Frozen Foods,129.431,OUT013,1987,High,Tier 3,Supermarket Type1,3505.437
+FDK21,7.905,Low Fat,0.010012319,Snack Foods,250.4408,OUT046,1997,Small,Tier 1,Supermarket Type1,3004.0896
+FDI35,14,Low Fat,0.041283361,Starchy Foods,182.4634,OUT035,2004,Small,Tier 2,Supermarket Type1,5452.902
+FDD44,8.05,Regular,0.078522357,Fruits and Vegetables,257.1646,OUT049,1999,Medium,Tier 1,Supermarket Type1,6183.9504
+FDX45,,Low Fat,0.104348025,Snack Foods,156.263,OUT027,1985,Medium,Tier 3,Supermarket Type3,4850.353
+FDN01,,Low Fat,0.07204818,Breakfast,177.937,OUT027,1985,Medium,Tier 3,Supermarket Type3,6881.043
+FDB36,5.465,Regular,0,Baking Goods,129.1626,OUT046,1997,Small,Tier 1,Supermarket Type1,3672.5528
+FDB23,,Regular,0.005561538,Starchy Foods,224.0062,OUT027,1985,Medium,Tier 3,Supermarket Type3,3837.0054
+FDR33,7.31,Low Fat,0.026788937,Snack Foods,110.357,OUT046,1997,Small,Tier 1,Supermarket Type1,3185.853
+FDJ55,12.8,Regular,0.023664054,Meat,226.0404,OUT017,2007,,Tier 2,Supermarket Type1,5400.9696
+FDA27,20.35,Regular,0.030927632,Dairy,256.8672,OUT046,1997,Small,Tier 1,Supermarket Type1,3579.3408
+NCI42,18.75,Low Fat,0.010365546,Household,207.0954,OUT046,1997,Small,Tier 1,Supermarket Type1,3125.931
+FDT37,14.15,Low Fat,0.03546967,Canned,256.3014,OUT017,2007,,Tier 2,Supermarket Type1,4845.0266
+NCP06,20.7,Low Fat,0.039306822,Household,150.7366,OUT049,1999,Medium,Tier 1,Supermarket Type1,3325.0052
+FDF21,10.3,Regular,0.059160135,Fruits and Vegetables,191.553,OUT017,2007,,Tier 2,Supermarket Type1,6641.355
+FDZ09,17.6,Low Fat,0.105472205,Snack Foods,165.6868,OUT017,2007,,Tier 2,Supermarket Type1,3111.9492
+FDS36,8.38,Regular,0.047152554,Baking Goods,110.157,OUT017,2007,,Tier 2,Supermarket Type1,3185.853
+NCT41,15.7,Low Fat,0.055990291,Health and Hygiene,153.2024,OUT046,1997,Small,Tier 1,Supermarket Type1,3795.06
+FDZ19,,Low Fat,0.093002339,Fruits and Vegetables,177.7712,OUT027,1985,Medium,Tier 3,Supermarket Type3,4921.5936
+FDD33,12.85,Low Fat,0.108412059,Fruits and Vegetables,233.2642,OUT045,2002,,Tier 2,Supermarket Type1,3950.1914
+DRP35,18.85,Low Fat,0.090867297,Hard Drinks,127.3336,OUT046,1997,Small,Tier 1,Supermarket Type1,3962.8416
+DRJ13,12.65,Low Fat,0.062878412,Soft Drinks,160.9578,OUT035,2004,Small,Tier 2,Supermarket Type1,4332.3606
+FDY25,12,Low Fat,0.034166609,Canned,181.2976,OUT017,2007,,Tier 2,Supermarket Type1,5070.7328
+NCK19,9.8,Low Fat,0.090649107,Others,194.3478,OUT045,2002,,Tier 2,Supermarket Type1,4649.9472
+FDR45,10.8,Low Fat,0.029001987,Snack Foods,238.6222,OUT045,2002,,Tier 2,Supermarket Type1,8604.7992
+FDD14,20.7,Low Fat,0.169667145,Canned,183.5266,OUT013,1987,High,Tier 3,Supermarket Type1,4426.2384
+DRE48,8.43,Low Fat,0.017396308,Soft Drinks,196.0768,OUT018,2009,Medium,Tier 3,Supermarket Type2,4138.6128
+FDC08,19,Regular,0.103449993,Fruits and Vegetables,225.472,OUT046,1997,Small,Tier 1,Supermarket Type1,3169.208
+FDY25,12,Low Fat,0.033946163,Canned,179.3976,OUT013,1987,High,Tier 3,Supermarket Type1,3440.8544
+FDR19,,Regular,0.158947217,Fruits and Vegetables,145.5102,OUT027,1985,Medium,Tier 3,Supermarket Type3,5978.2182
+FDV11,9.1,Regular,0,Breads,173.2054,OUT045,2002,,Tier 2,Supermarket Type1,3151.8972
+FDY55,16.75,Low Fat,0,Fruits and Vegetables,255.3988,OUT046,1997,Small,Tier 1,Supermarket Type1,4625.9784
+FDD22,10,Low Fat,0.100055625,Snack Foods,113.3544,OUT018,2009,Medium,Tier 3,Supermarket Type2,3467.4864
+FDT57,15.2,Low Fat,0.019064377,Snack Foods,238.2248,OUT049,1999,Medium,Tier 1,Supermarket Type1,3555.372
+FDV20,20.2,Regular,0.059790095,Fruits and Vegetables,127.4678,OUT035,2004,Small,Tier 2,Supermarket Type1,3560.6984
+NCJ54,9.895,Low Fat,0.060017128,Household,230.8642,OUT013,1987,High,Tier 3,Supermarket Type1,4414.9198
+FDI57,19.85,Low Fat,0.054025644,Seafood,197.2768,OUT046,1997,Small,Tier 1,Supermarket Type1,6503.5344
+FDS44,12.65,Regular,0.156926608,Fruits and Vegetables,238.3538,OUT017,2007,,Tier 2,Supermarket Type1,5528.1374
+DRI01,7.97,Low Fat,0,Soft Drinks,172.0422,OUT018,2009,Medium,Tier 3,Supermarket Type2,5690.5926
+FDN22,18.85,Regular,0.138585859,Snack Foods,252.4724,OUT045,2002,,Tier 2,Supermarket Type1,3271.7412
+FDG45,8.1,Low Fat,0,Fruits and Vegetables,211.8902,OUT018,2009,Medium,Tier 3,Supermarket Type2,3823.0236
+FDC05,13.1,Regular,0.099186992,Frozen Foods,198.7768,OUT018,2009,Medium,Tier 3,Supermarket Type2,3153.2288
+FDA47,,Regular,0.116108797,Baking Goods,164.121,OUT027,1985,Medium,Tier 3,Supermarket Type3,6035.477
+FDA21,13.65,Low Fat,0.03595391,Snack Foods,185.2924,OUT035,2004,Small,Tier 2,Supermarket Type1,3146.5708
+NCX17,21.25,Low Fat,0.114066204,Health and Hygiene,233.03,OUT018,2009,Medium,Tier 3,Supermarket Type2,5592.72
+FDZ25,15.7,Regular,0.027673055,Canned,169.279,OUT045,2002,,Tier 2,Supermarket Type1,3735.138
+DRB24,8.785,Low Fat,0.020609218,Soft Drinks,155.1656,OUT049,1999,Medium,Tier 1,Supermarket Type1,4016.1056
+NCZ42,10.5,LF,0.011305479,Household,235.5248,OUT049,1999,Medium,Tier 1,Supermarket Type1,4740.496
+NCP05,,Low Fat,0.025164132,Health and Hygiene,152.6024,OUT027,1985,Medium,Tier 3,Supermarket Type3,6072.096
+FDM36,11.65,Regular,0.058822142,Baking Goods,173.5422,OUT049,1999,Medium,Tier 1,Supermarket Type1,3448.844
+FDY21,15.1,Low Fat,0.173833129,Snack Foods,196.511,OUT045,2002,,Tier 2,Supermarket Type1,4713.864
+DRL01,19.5,Regular,0.077108099,Soft Drinks,232.8958,OUT013,1987,High,Tier 3,Supermarket Type1,5608.6992
+DRG48,5.78,Low Fat,0.014555066,Soft Drinks,145.2102,OUT046,1997,Small,Tier 1,Supermarket Type1,3062.0142
+NCJ42,19.75,Low Fat,0.01438222,Household,102.2332,OUT017,2007,,Tier 2,Supermarket Type1,3075.996
+NCJ54,9.895,LF,0.060067115,Household,230.6642,OUT046,1997,Small,Tier 1,Supermarket Type1,4647.284
+FDP21,,Regular,0.025616191,Snack Foods,188.1872,OUT027,1985,Medium,Tier 3,Supermarket Type3,6239.8776
+FDQ24,15.7,Low Fat,0.073966786,Baking Goods,250.5724,OUT018,2009,Medium,Tier 3,Supermarket Type2,4026.7584
+DRG49,,Low Fat,0.067128641,Soft Drinks,242.8486,OUT027,1985,Medium,Tier 3,Supermarket Type3,3420.8804
+FDR11,10.5,Regular,0.142827296,Breads,159.4578,OUT045,2002,,Tier 2,Supermarket Type1,3048.6982
+FDE17,20.1,Regular,0.054445198,Frozen Foods,151.7366,OUT035,2004,Small,Tier 2,Supermarket Type1,4836.3712
+FDS55,7.02,Low Fat,0.081328781,Fruits and Vegetables,150.0734,OUT045,2002,,Tier 2,Supermarket Type1,4454.202
+FDS57,15.5,Low Fat,0,Snack Foods,141.547,OUT017,2007,,Tier 2,Supermarket Type1,3006.087
+FDE52,,Regular,0.02974207,Dairy,88.9514,OUT027,1985,Medium,Tier 3,Supermarket Type3,3453.5046
+NCB43,20.2,Low Fat,0.100114941,Household,188.3898,OUT045,2002,,Tier 2,Supermarket Type1,3554.7062
+FDF17,5.19,Low Fat,0.042861968,Frozen Foods,196.811,OUT017,2007,,Tier 2,Supermarket Type1,3731.809
+NCM05,6.825,Low Fat,0.059846975,Health and Hygiene,262.5226,OUT046,1997,Small,Tier 1,Supermarket Type1,9779.9362
+FDZ16,16.85,Regular,0.159825617,Frozen Foods,195.5478,OUT035,2004,Small,Tier 2,Supermarket Type1,4262.4516
+FDO52,11.6,Regular,0.077478931,Frozen Foods,170.3106,OUT018,2009,Medium,Tier 3,Supermarket Type2,4277.765
+FDP48,,Regular,0.043810028,Baking Goods,181.395,OUT027,1985,Medium,Tier 3,Supermarket Type3,6042.135
+FDR23,15.85,Low Fat,0.081914677,Breads,177.637,OUT049,1999,Medium,Tier 1,Supermarket Type1,3352.303
+FDM39,,Low Fat,0.053211728,Dairy,177.6002,OUT027,1985,Medium,Tier 3,Supermarket Type3,8417.7094
+FDC08,19,Regular,0.103363904,Fruits and Vegetables,226.172,OUT013,1987,High,Tier 3,Supermarket Type1,3169.208
+DRQ35,9.3,Low Fat,0.042283454,Hard Drinks,125.4388,OUT035,2004,Small,Tier 2,Supermarket Type1,3715.164
+FDU28,19.2,Regular,0.09444959,Frozen Foods,187.8214,OUT017,2007,,Tier 2,Supermarket Type1,4710.535
+FDO09,13.5,Regular,0.125170423,Snack Foods,261.491,OUT013,1987,High,Tier 3,Supermarket Type1,3418.883
+FDZ45,14.1,Low Fat,0.066979957,Snack Foods,196.7084,OUT049,1999,Medium,Tier 1,Supermarket Type1,3174.5344
+FDG33,5.365,Regular,0.140458316,Seafood,169.7764,OUT049,1999,Medium,Tier 1,Supermarket Type1,3263.7516
+FDZ03,13.65,Regular,0,Dairy,186.024,OUT018,2009,Medium,Tier 3,Supermarket Type2,4287.752
+FDW26,11.8,Regular,0.107036943,Dairy,220.3772,OUT035,2004,Small,Tier 2,Supermarket Type1,4447.544
+FDZ33,10.195,Low Fat,0.107376743,Snack Foods,147.6076,OUT035,2004,Small,Tier 2,Supermarket Type1,3547.3824
+FDT59,13.65,Low Fat,0,Breads,229.4668,OUT049,1999,Medium,Tier 1,Supermarket Type1,4837.7028
+FDR21,,Low Fat,0.066611321,Snack Foods,178.237,OUT027,1985,Medium,Tier 3,Supermarket Type3,3705.177
+DRO35,13.85,Low Fat,0.034624104,Hard Drinks,115.0492,OUT049,1999,Medium,Tier 1,Supermarket Type1,4054.722
+FDU55,16.2,Low Fat,0.035967107,Fruits and Vegetables,260.3278,OUT049,1999,Medium,Tier 1,Supermarket Type1,7549.5062
+NCI30,20.25,Low Fat,0.0591756,Household,245.046,OUT018,2009,Medium,Tier 3,Supermarket Type2,4680.574
+FDC08,19,Regular,0.104035148,Fruits and Vegetables,227.772,OUT017,2007,,Tier 2,Supermarket Type1,5206.556
+NCT18,,Low Fat,0.05911748,Household,181.5976,OUT027,1985,Medium,Tier 3,Supermarket Type3,4165.2448
+NCK29,,Low Fat,0,Health and Hygiene,125.173,OUT027,1985,Medium,Tier 3,Supermarket Type3,3572.017
+FDU24,6.78,Regular,0.140955857,Baking Goods,92.212,OUT017,2007,,Tier 2,Supermarket Type1,4101.328
+NCP18,12.15,Low Fat,0.028760013,Household,151.4708,OUT017,2007,,Tier 2,Supermarket Type1,4815.0656
+FDY26,20.6,reg,0.030510526,Dairy,211.4244,OUT046,1997,Small,Tier 1,Supermarket Type1,7833.8028
+FDV26,20.25,Regular,0,Dairy,194.2794,OUT049,1999,Medium,Tier 1,Supermarket Type1,4291.7468
+FDT55,13.6,Regular,0.043655155,Fruits and Vegetables,156.7946,OUT046,1997,Small,Tier 1,Supermarket Type1,3629.2758
+FDY50,,Low Fat,0.130321652,Dairy,88.7172,OUT027,1985,Medium,Tier 3,Supermarket Type3,3301.0364
+FDL57,15.1,Regular,0.067350054,Snack Foods,257.3304,OUT018,2009,Medium,Tier 3,Supermarket Type2,3874.956
+DRL60,8.52,Low Fat,0.027054244,Soft Drinks,151.5682,OUT035,2004,Small,Tier 2,Supermarket Type1,3506.7686
+FDH05,14.35,Regular,0.090896452,Frozen Foods,231.2984,OUT035,2004,Small,Tier 2,Supermarket Type1,6024.1584
+FDY45,17.5,Low Fat,0,Snack Foods,253.0356,OUT035,2004,Small,Tier 2,Supermarket Type1,4578.0408
+FDE20,11.35,Regular,0.005530516,Fruits and Vegetables,171.179,OUT046,1997,Small,Tier 1,Supermarket Type1,4923.591
+FDN21,18.6,Low Fat,0.076791671,Snack Foods,161.0236,OUT013,1987,High,Tier 3,Supermarket Type1,3705.8428
+FDN34,15.6,Regular,0,Snack Foods,170.6132,OUT013,1987,High,Tier 3,Supermarket Type1,6595.4148
+FDW40,14,Regular,0.105125569,Frozen Foods,143.2812,OUT035,2004,Small,Tier 2,Supermarket Type1,3277.0676
+FDX31,,Regular,0.014753811,Fruits and Vegetables,231.7958,OUT027,1985,Medium,Tier 3,Supermarket Type3,5375.0034
+FDN04,11.8,Regular,0.014115626,Frozen Foods,178.5344,OUT045,2002,,Tier 2,Supermarket Type1,3390.2536
+FDT55,,Regular,0.043443753,Fruits and Vegetables,158.1946,OUT027,1985,Medium,Tier 3,Supermarket Type3,6942.9624
+FDQ01,19.7,Regular,0.160671255,Canned,254.7014,OUT035,2004,Small,Tier 2,Supermarket Type1,3570.0196
+FDB37,20.25,Regular,0.022976493,Baking Goods,240.3538,OUT049,1999,Medium,Tier 1,Supermarket Type1,4086.0146
+FDS20,8.85,Low Fat,0.053950661,Fruits and Vegetables,182.7292,OUT049,1999,Medium,Tier 1,Supermarket Type1,4925.5884
+FDS56,5.785,Regular,0.038724612,Fruits and Vegetables,263.9252,OUT013,1987,High,Tier 3,Supermarket Type1,6033.4796
+FDG33,5.365,Regular,0.140213762,Seafood,173.7764,OUT035,2004,Small,Tier 2,Supermarket Type1,4637.9628
+FDV39,11.3,Low Fat,0.007309544,Meat,196.2426,OUT018,2009,Medium,Tier 3,Supermarket Type2,4943.565
+NCI42,,Low Fat,0.01031535,Household,208.4954,OUT027,1985,Medium,Tier 3,Supermarket Type3,3751.1172
+FDP34,12.85,Low Fat,0.137227848,Snack Foods,155.563,OUT046,1997,Small,Tier 1,Supermarket Type1,4224.501
+DRM59,,LF,0.003574698,Hard Drinks,154.6998,OUT027,1985,Medium,Tier 3,Supermarket Type3,3229.7958
+FDN09,,low fat,0.034705807,Snack Foods,241.6828,OUT027,1985,Medium,Tier 3,Supermarket Type3,4873.656
+FDX47,,Regular,0.03443677,Breads,156.5288,OUT027,1985,Medium,Tier 3,Supermarket Type3,4870.9928
+FDI57,19.85,Low Fat,0.054245722,Seafood,196.0768,OUT018,2009,Medium,Tier 3,Supermarket Type2,5518.1504
+FDR37,16.5,Regular,0.06619442,Breakfast,184.4292,OUT013,1987,High,Tier 3,Supermarket Type1,3101.2964
+FDJ48,11.3,Low Fat,0.056387854,Baking Goods,245.4118,OUT013,1987,High,Tier 3,Supermarket Type1,6669.3186
+NCZ42,10.5,Low Fat,0.011285795,Household,235.8248,OUT035,2004,Small,Tier 2,Supermarket Type1,4266.4464
+FDK09,,Low Fat,0.091318935,Snack Foods,230.7352,OUT027,1985,Medium,Tier 3,Supermarket Type3,8474.3024
+FDM10,18.25,Low Fat,0.075908374,Snack Foods,213.4218,OUT013,1987,High,Tier 3,Supermarket Type1,3846.9924
+FDB33,17.75,Low Fat,0.014609738,Fruits and Vegetables,160.4262,OUT045,2002,,Tier 2,Supermarket Type1,3182.524
+FDN02,16.5,Low Fat,0.073813788,Canned,207.2638,OUT035,2004,Small,Tier 2,Supermarket Type1,5383.6588
+FDH58,12.3,Low Fat,0.036939673,Snack Foods,113.1834,OUT046,1997,Small,Tier 1,Supermarket Type1,3109.9518
+FDK21,7.905,Low Fat,0.010027885,Snack Foods,249.6408,OUT049,1999,Medium,Tier 1,Supermarket Type1,3254.4304
+FDQ33,13.35,Low Fat,0.091189915,Snack Foods,149.3708,OUT035,2004,Small,Tier 2,Supermarket Type1,4514.124
+FDJ44,12.3,Regular,0.106238768,Fruits and Vegetables,176.1396,OUT013,1987,High,Tier 3,Supermarket Type1,3663.2316
+FDC17,,Low Fat,0.015385857,Frozen Foods,208.9928,OUT027,1985,Medium,Tier 3,Supermarket Type3,9678.0688
+FDZ26,11.6,Regular,0.144017405,Dairy,238.3222,OUT046,1997,Small,Tier 1,Supermarket Type1,5736.5328
+FDX56,17.1,Regular,0.07436116,Fruits and Vegetables,206.1638,OUT018,2009,Medium,Tier 3,Supermarket Type2,4141.276
+FDA28,,Regular,0.047570401,Frozen Foods,125.7362,OUT027,1985,Medium,Tier 3,Supermarket Type3,3020.0688
+NCC54,17.75,Low Fat,0.097629611,Health and Hygiene,240.4196,OUT013,1987,High,Tier 3,Supermarket Type1,4579.3724
+NCJ31,19.2,Low Fat,0.18293775,Others,243.0196,OUT049,1999,Medium,Tier 1,Supermarket Type1,3615.294
+FDQ45,,Regular,0.010864186,Snack Foods,185.3608,OUT027,1985,Medium,Tier 3,Supermarket Type3,5329.0632
+FDJ40,,Regular,0.049349121,Frozen Foods,108.6912,OUT027,1985,Medium,Tier 3,Supermarket Type3,3057.3536
+FDX35,5.035,Regular,0.079844043,Breads,226.3036,OUT013,1987,High,Tier 3,Supermarket Type1,4098.6648
+NCW42,18.2,LF,0.058799705,Household,220.7456,OUT017,2007,,Tier 2,Supermarket Type1,4420.912
+FDF04,17.5,Low Fat,0.013637046,Frozen Foods,258.5304,OUT046,1997,Small,Tier 1,Supermarket Type1,6199.9296
+FDV55,,Low Fat,0.054806734,Fruits and Vegetables,145.1444,OUT027,1985,Medium,Tier 3,Supermarket Type3,3918.8988
+NCK07,10.65,Low Fat,0.04896208,Others,165.8526,OUT017,2007,,Tier 2,Supermarket Type1,3946.8624
+FDI10,,Regular,0.07802465,Snack Foods,171.4422,OUT027,1985,Medium,Tier 3,Supermarket Type3,3448.844
+FDD09,13.5,Low Fat,0,Fruits and Vegetables,179.9976,OUT013,1987,High,Tier 3,Supermarket Type1,4889.6352
+NCQ41,,Low Fat,0.019386057,Health and Hygiene,194.5794,OUT027,1985,Medium,Tier 3,Supermarket Type3,3511.4292
+FDI10,8.51,Regular,0.078526225,Snack Foods,173.5422,OUT049,1999,Medium,Tier 1,Supermarket Type1,5000.8238
+FDB60,9.3,Low Fat,0.028566433,Baking Goods,193.0136,OUT049,1999,Medium,Tier 1,Supermarket Type1,4860.34
+FDD26,8.71,Regular,0.072155462,Canned,183.3924,OUT046,1997,Small,Tier 1,Supermarket Type1,3146.5708
+FDQ57,7.275,Low Fat,0.027991093,Snack Foods,145.976,OUT049,1999,Medium,Tier 1,Supermarket Type1,3515.424
+FDX12,18.2,Regular,0.026059557,Baking Goods,241.2196,OUT035,2004,Small,Tier 2,Supermarket Type1,6507.5292
+NCP42,8.51,Low Fat,0.016201845,Household,195.2478,OUT017,2007,,Tier 2,Supermarket Type1,4262.4516
+NCJ54,9.895,Low Fat,0.060188932,Household,233.0642,OUT045,2002,,Tier 2,Supermarket Type1,6041.4692
+FDW26,11.8,Regular,0.107274301,Dairy,221.1772,OUT045,2002,,Tier 2,Supermarket Type1,3113.2808
+FDQ57,,Low Fat,0.027812304,Snack Foods,147.476,OUT027,1985,Medium,Tier 3,Supermarket Type3,3368.948
+FDE08,,Low Fat,0.049080853,Fruits and Vegetables,147.7734,OUT027,1985,Medium,Tier 3,Supermarket Type3,4602.6754
+DRG13,17.25,Low Fat,0.037337632,Soft Drinks,163.7526,OUT018,2009,Medium,Tier 3,Supermarket Type2,3289.052
+NCG06,16.35,Low Fat,0.029420857,Household,256.9646,OUT013,1987,High,Tier 3,Supermarket Type1,4637.9628
+NCY06,15.25,Low Fat,0.061184804,Household,132.0968,OUT046,1997,Small,Tier 1,Supermarket Type1,3914.904
+FDA10,,Low Fat,0.141129263,Snack Foods,121.6072,OUT027,1985,Medium,Tier 3,Supermarket Type3,3430.2016
+DRK37,5,Low Fat,0.044004675,Soft Drinks,188.853,OUT046,1997,Small,Tier 1,Supermarket Type1,5502.837
+DRJ39,20.25,Low Fat,0.036399734,Dairy,219.3482,OUT045,2002,,Tier 2,Supermarket Type1,8323.8316
+FDF21,,Regular,0.058542509,Fruits and Vegetables,188.353,OUT027,1985,Medium,Tier 3,Supermarket Type3,4364.319
+FDM33,15.6,Low Fat,0.088215871,Snack Foods,220.1798,OUT017,2007,,Tier 2,Supermarket Type1,5068.7354
+FDK51,19.85,Low Fat,0.005230786,Dairy,265.1884,OUT013,1987,High,Tier 3,Supermarket Type1,5034.7796
+FDQ52,17,Low Fat,0.120060274,Frozen Foods,246.5434,OUT017,2007,,Tier 2,Supermarket Type1,4470.1812
+FDN51,17.85,reg,0.021065311,Meat,261.5936,OUT017,2007,,Tier 2,Supermarket Type1,6002.8528
+FDO40,17.1,Low Fat,0.032678839,Frozen Foods,150.7392,OUT049,1999,Medium,Tier 1,Supermarket Type1,3131.9232
+FDB21,,Low Fat,0,Fruits and Vegetables,242.9854,OUT027,1985,Medium,Tier 3,Supermarket Type3,6767.1912
+NCI29,,Low Fat,0.032463574,Health and Hygiene,139.9154,OUT027,1985,Medium,Tier 3,Supermarket Type3,4963.539
+FDI22,12.6,Low Fat,0.096132367,Snack Foods,208.9612,OUT013,1987,High,Tier 3,Supermarket Type1,4181.224
+FDI15,13.8,Low Fat,0.141234932,Dairy,263.7884,OUT013,1987,High,Tier 3,Supermarket Type1,5564.7564
+NCQ50,,Low Fat,0.034141213,Household,211.9218,OUT027,1985,Medium,Tier 3,Supermarket Type3,3419.5488
+FDU13,8.355,Low Fat,0,Canned,145.6418,OUT013,1987,High,Tier 3,Supermarket Type1,3384.2614
+FDK25,11.6,Regular,0.157718931,Breakfast,168.3474,OUT017,2007,,Tier 2,Supermarket Type1,4548.0798
+FDG45,8.1,Low Fat,0.128011859,Fruits and Vegetables,210.9902,OUT035,2004,Small,Tier 2,Supermarket Type1,6371.706
+FDX58,13.15,Low Fat,0.043755405,Snack Foods,182.895,OUT035,2004,Small,Tier 2,Supermarket Type1,3112.615
+FDB21,7.475,Low Fat,0.149125615,Fruits and Vegetables,241.6854,OUT018,2009,Medium,Tier 3,Supermarket Type2,6042.135
+DRJ37,,Low Fat,0.060805497,Soft Drinks,150.8024,OUT027,1985,Medium,Tier 3,Supermarket Type3,3339.6528
+FDL26,18,Low Fat,0.073306615,Canned,155.0972,OUT049,1999,Medium,Tier 1,Supermarket Type1,3894.93
+FDA27,20.35,Regular,0,Dairy,256.7672,OUT018,2009,Medium,Tier 3,Supermarket Type2,5624.6784
+FDU19,8.77,Regular,0.046771477,Fruits and Vegetables,173.9422,OUT046,1997,Small,Tier 1,Supermarket Type1,3103.9596
+FDX35,5.035,Regular,0.080362549,Breads,229.0036,OUT017,2007,,Tier 2,Supermarket Type1,4326.3684
+DRN47,12.1,Low Fat,0,Hard Drinks,179.866,OUT045,2002,,Tier 2,Supermarket Type1,3595.32
+FDE28,9.5,Regular,0,Frozen Foods,231.3668,OUT013,1987,High,Tier 3,Supermarket Type1,5759.17
+FDB38,,Regular,0.027214272,Canned,159.692,OUT027,1985,Medium,Tier 3,Supermarket Type3,3515.424
+DRH37,17.6,Low Fat,0.041581725,Soft Drinks,163.3526,OUT013,1987,High,Tier 3,Supermarket Type1,3453.5046
+FDZ09,17.6,Low Fat,0.105042025,Snack Foods,163.8868,OUT049,1999,Medium,Tier 1,Supermarket Type1,3111.9492
+FDV45,16.75,low fat,0.045230944,Snack Foods,187.9556,OUT018,2009,Medium,Tier 3,Supermarket Type2,4693.89
+FDT07,5.82,Regular,0.077634044,Fruits and Vegetables,256.433,OUT018,2009,Medium,Tier 3,Supermarket Type2,3844.995
+NCG42,19.2,Low Fat,0.041220035,Household,131.231,OUT035,2004,Small,Tier 2,Supermarket Type1,3635.268
+FDO03,,Regular,0.03670437,Meat,228.1352,OUT027,1985,Medium,Tier 3,Supermarket Type3,9390.4432
+FDT07,5.82,Regular,0.077304459,Fruits and Vegetables,257.633,OUT035,2004,Small,Tier 2,Supermarket Type1,4613.994
+FDK09,15.2,Low Fat,0.092282353,Snack Foods,227.2352,OUT017,2007,,Tier 2,Supermarket Type1,4122.6336
+FDQ59,,Regular,0,Breads,84.5908,OUT027,1985,Medium,Tier 3,Supermarket Type3,3020.0688
+FDR37,,Regular,0.065928735,Breakfast,183.0292,OUT027,1985,Medium,Tier 3,Supermarket Type3,8209.314
+FDW45,18,Low Fat,0.039090105,Snack Foods,148.4418,OUT045,2002,,Tier 2,Supermarket Type1,4119.9704
+NCB30,14.6,Low Fat,0.025742955,Household,197.1084,OUT049,1999,Medium,Tier 1,Supermarket Type1,4761.8016
+FDW52,14,Regular,0.037580877,Frozen Foods,162.6526,OUT049,1999,Medium,Tier 1,Supermarket Type1,4275.7676
+FDR56,15.5,Regular,0.101176316,Fruits and Vegetables,198.9768,OUT018,2009,Medium,Tier 3,Supermarket Type2,4729.8432
+NCY42,6.38,Low Fat,0.015186146,Household,144.947,OUT049,1999,Medium,Tier 1,Supermarket Type1,3435.528
+FDP11,15.85,Low Fat,0.069043044,Breads,218.7166,OUT013,1987,High,Tier 3,Supermarket Type1,4136.6154
+NCJ54,9.895,Low Fat,0.060055757,Household,234.2642,OUT035,2004,Small,Tier 2,Supermarket Type1,3717.8272
+FDK02,12.5,Low Fat,0.112681821,Canned,119.144,OUT018,2009,Medium,Tier 3,Supermarket Type2,3235.788
+DRG49,7.81,Low Fat,0.067592098,Soft Drinks,246.0486,OUT045,2002,,Tier 2,Supermarket Type1,7086.1094
+FDD11,12.85,LF,0,Starchy Foods,253.004,OUT018,2009,Medium,Tier 3,Supermarket Type2,3795.06
+FDI38,13.35,Regular,0.014649641,Canned,207.3638,OUT049,1999,Medium,Tier 1,Supermarket Type1,5797.7864
+FDK03,12.6,Regular,0.074221559,Dairy,255.9356,OUT018,2009,Medium,Tier 3,Supermarket Type2,4832.3764
+FDT37,14.15,Low Fat,0.035240817,Canned,255.5014,OUT013,1987,High,Tier 3,Supermarket Type1,5355.0294
+FDT40,5.985,LF,0.096185556,Frozen Foods,127.1678,OUT018,2009,Medium,Tier 3,Supermarket Type2,3560.6984
+FDV36,18.7,Low Fat,0.026355345,Baking Goods,127.102,OUT045,2002,,Tier 2,Supermarket Type1,3289.052
+FDS58,9.285,Regular,0,Snack Foods,161.5578,OUT046,1997,Small,Tier 1,Supermarket Type1,4653.2762
+FDR34,17,Regular,0.01599013,Snack Foods,228.8352,OUT049,1999,Medium,Tier 1,Supermarket Type1,4351.6688
+NCV18,6.775,Low Fat,0.105225964,Household,84.225,OUT035,2004,Small,Tier 2,Supermarket Type1,3162.55
+FDG17,,Regular,0.035666655,Frozen Foods,246.2486,OUT027,1985,Medium,Tier 3,Supermarket Type3,8063.5038
+FDP09,19.75,LF,0.033883448,Snack Foods,213.2902,OUT035,2004,Small,Tier 2,Supermarket Type1,4247.804
+NCD18,,Low Fat,0.072317217,Household,230.2668,OUT027,1985,Medium,Tier 3,Supermarket Type3,8062.838
+DRJ23,18.35,Low Fat,0.041634206,Hard Drinks,188.1872,OUT013,1987,High,Tier 3,Supermarket Type1,3781.744
+FDZ38,17.6,Low Fat,0.008033611,Dairy,174.2422,OUT018,2009,Medium,Tier 3,Supermarket Type2,4311.055
+FDI07,12.35,Regular,0.033754478,Meat,199.0426,OUT035,2004,Small,Tier 2,Supermarket Type1,3361.6242
+FDP28,13.65,Regular,0.080765853,Frozen Foods,262.8936,OUT049,1999,Medium,Tier 1,Supermarket Type1,4958.8784
+FDA34,11.5,Low Fat,0.014883661,Starchy Foods,174.508,OUT049,1999,Medium,Tier 1,Supermarket Type1,3635.268
+NCZ18,7.825,Low Fat,0.186032678,Household,253.0698,OUT035,2004,Small,Tier 2,Supermarket Type1,6088.0752
+FDB17,13.15,Low Fat,0.036641589,Frozen Foods,180.7976,OUT013,1987,High,Tier 3,Supermarket Type1,6157.3184
+FDY14,10.3,Low Fat,0.070026951,Dairy,263.6226,OUT035,2004,Small,Tier 2,Supermarket Type1,6608.065
+FDU34,18.25,Low Fat,0.075620262,Snack Foods,123.8046,OUT017,2007,,Tier 2,Supermarket Type1,3486.1288
+FDL44,18.25,Low Fat,0.012264903,Fruits and Vegetables,162.8894,OUT013,1987,High,Tier 3,Supermarket Type1,3397.5774
+FDN01,8.895,Low Fat,0.072511335,Breakfast,177.437,OUT049,1999,Medium,Tier 1,Supermarket Type1,3528.74
+DRI23,18.85,Low Fat,0,Hard Drinks,162.0578,OUT035,2004,Small,Tier 2,Supermarket Type1,3209.156
+NCU29,,Low Fat,0.025354072,Health and Hygiene,144.476,OUT027,1985,Medium,Tier 3,Supermarket Type3,3661.9
+FDW02,4.805,Regular,0.037852995,Dairy,126.2704,OUT018,2009,Medium,Tier 3,Supermarket Type2,3629.9416
+DRJ11,9.5,Low Fat,0.085223447,Hard Drinks,189.2872,OUT049,1999,Medium,Tier 1,Supermarket Type1,6050.7904
+FDF56,16.7,Regular,0.119362812,Fruits and Vegetables,180.3976,OUT013,1987,High,Tier 3,Supermarket Type1,3078.6592
+FDU43,19.35,Regular,0,Fruits and Vegetables,238.6564,OUT013,1987,High,Tier 3,Supermarket Type1,3575.346
+FDD11,12.85,Low Fat,0.030678825,Starchy Foods,251.704,OUT045,2002,,Tier 2,Supermarket Type1,3542.056
+FDJ10,,Regular,0.128876537,Snack Foods,139.1838,OUT027,1985,Medium,Tier 3,Supermarket Type3,4916.933
+DRF13,12.1,Low Fat,0,Soft Drinks,145.1444,OUT013,1987,High,Tier 3,Supermarket Type1,3338.3212
+FDB10,10,Low Fat,0.067312613,Snack Foods,234.359,OUT049,1999,Medium,Tier 1,Supermarket Type1,3072.667
+NCS54,13.6,Low Fat,0.010008699,Household,176.737,OUT049,1999,Medium,Tier 1,Supermarket Type1,4940.236
+FDD26,,Regular,0.071806046,Canned,186.5924,OUT027,1985,Medium,Tier 3,Supermarket Type3,5182.5872
+FDT52,9.695,Regular,0.047420609,Frozen Foods,246.0144,OUT035,2004,Small,Tier 2,Supermarket Type1,4165.2448
+FDT11,,Regular,0.02923013,Breads,189.4556,OUT027,1985,Medium,Tier 3,Supermarket Type3,3567.3564
+FDQ39,,Low Fat,0.080649685,Meat,189.9846,OUT027,1985,Medium,Tier 3,Supermarket Type3,6114.7072
+FDW45,18,Low Fat,0.03901099,Snack Foods,147.7418,OUT046,1997,Small,Tier 1,Supermarket Type1,4119.9704
+FDM08,10.1,Regular,0.053584207,Fruits and Vegetables,224.4088,OUT046,1997,Small,Tier 1,Supermarket Type1,4697.8848
+NCB43,20.2,Low Fat,0.100319317,Household,188.6898,OUT018,2009,Medium,Tier 3,Supermarket Type2,3367.6164
+FDE28,9.5,Regular,0,Frozen Foods,228.4668,OUT049,1999,Medium,Tier 1,Supermarket Type1,3916.2356
+FDL09,19.6,Regular,0.127929521,Snack Foods,167.4816,OUT013,1987,High,Tier 3,Supermarket Type1,3691.1952
+FDF46,,Low Fat,0.093217569,Snack Foods,116.7834,OUT027,1985,Medium,Tier 3,Supermarket Type3,4952.8862
+FDF44,,Regular,0.059438787,Fruits and Vegetables,130.9968,OUT027,1985,Medium,Tier 3,Supermarket Type3,4828.3816
+NCC06,19,Low Fat,0.026963909,Household,129.8336,OUT013,1987,High,Tier 3,Supermarket Type1,3451.5072
+FDK21,7.905,Low Fat,0.010010425,Snack Foods,249.0408,OUT035,2004,Small,Tier 2,Supermarket Type1,3755.112
+FDR59,,Regular,0.063554289,Breads,263.6594,OUT027,1985,Medium,Tier 3,Supermarket Type3,3401.5722
+FDL34,16,Low Fat,0.041177505,Snack Foods,142.3496,OUT017,2007,,Tier 2,Supermarket Type1,3246.4408
+NCE43,12.5,low fat,0.103442268,Household,170.8448,OUT046,1997,Small,Tier 1,Supermarket Type1,4942.8992
+NCZ42,10.5,Low Fat,0.011351778,Household,236.5248,OUT017,2007,,Tier 2,Supermarket Type1,4029.4216
+FDP48,7.52,Regular,0.044091657,Baking Goods,182.995,OUT049,1999,Medium,Tier 1,Supermarket Type1,3844.995
+NCD31,12.1,LF,0.015521768,Household,165.8526,OUT017,2007,,Tier 2,Supermarket Type1,3124.5994
+FDV22,14.85,Regular,0.009995002,Snack Foods,154.463,OUT017,2007,,Tier 2,Supermarket Type1,3755.112
+FDF53,20.75,reg,0.083606565,Frozen Foods,178.8318,OUT046,1997,Small,Tier 1,Supermarket Type1,3608.636
+FDY51,,Low Fat,0.080741927,Meat,220.8798,OUT027,1985,Medium,Tier 3,Supermarket Type3,6170.6344
+FDG14,9,reg,0.05060313,Canned,150.9024,OUT045,2002,,Tier 2,Supermarket Type1,4402.2696
+NCR50,,LF,0.011762847,Household,153.534,OUT027,1985,Medium,Tier 3,Supermarket Type3,7503.566
+FDB37,20.25,Regular,0.022921735,Baking Goods,240.7538,OUT013,1987,High,Tier 3,Supermarket Type1,3364.9532
+FDP08,20.5,Regular,0.112638016,Fruits and Vegetables,195.5478,OUT045,2002,,Tier 2,Supermarket Type1,3874.956
+NCK07,10.65,Low Fat,0.048762383,Others,165.2526,OUT049,1999,Medium,Tier 1,Supermarket Type1,3946.8624
+DRN47,,Low Fat,0.016745264,Hard Drinks,180.766,OUT027,1985,Medium,Tier 3,Supermarket Type3,3056.022
+DRM59,5.88,Low Fat,0.003599378,Hard Drinks,152.2998,OUT045,2002,,Tier 2,Supermarket Type1,3075.996
+FDL08,,Low Fat,0.049478259,Fruits and Vegetables,245.4144,OUT027,1985,Medium,Tier 3,Supermarket Type3,3675.216
+FDS11,7.05,Regular,0.05587277,Breads,222.1088,OUT017,2007,,Tier 2,Supermarket Type1,4026.7584
+FDP48,7.52,Regular,0.044023213,Baking Goods,183.095,OUT046,1997,Small,Tier 1,Supermarket Type1,5492.85
+FDJ41,6.85,Low Fat,0.022878953,Frozen Foods,262.3594,OUT035,2004,Small,Tier 2,Supermarket Type1,3924.891
+FDM21,20.2,LF,0.064464147,Snack Foods,255.7646,OUT049,1999,Medium,Tier 1,Supermarket Type1,5410.9566
+FDK40,7.035,LF,0.021883368,Frozen Foods,263.791,OUT049,1999,Medium,Tier 1,Supermarket Type1,4996.829
+NCB43,,Low Fat,0.099428487,Household,187.8898,OUT027,1985,Medium,Tier 3,Supermarket Type3,7296.5022
+NCZ54,14.65,Low Fat,0.083488992,Household,161.3552,OUT049,1999,Medium,Tier 1,Supermarket Type1,7148.0288
+NCP53,14.75,Low Fat,0.033024328,Health and Hygiene,236.6906,OUT018,2009,Medium,Tier 3,Supermarket Type2,3089.9778
+FDG58,10.695,Regular,0.086764795,Snack Foods,156.7972,OUT035,2004,Small,Tier 2,Supermarket Type1,3427.5384
+NCS18,12.65,Low Fat,0.042296724,Household,106.3938,OUT045,2002,,Tier 2,Supermarket Type1,3751.783
+FDY39,,Regular,0,Meat,182.0608,OUT027,1985,Medium,Tier 3,Supermarket Type3,7717.9536
+FDH24,20.7,Low Fat,0.021464454,Baking Goods,156.6288,OUT049,1999,Medium,Tier 1,Supermarket Type1,3928.22
+FDA15,9.3,Low Fat,0.016087659,Dairy,249.6092,OUT018,2009,Medium,Tier 3,Supermarket Type2,5976.2208
+FDA33,6.48,Low Fat,0.033893487,Snack Foods,147.0076,OUT035,2004,Small,Tier 2,Supermarket Type1,3103.9596
+FDU22,12.35,Low Fat,0.093441604,Snack Foods,119.1124,OUT049,1999,Medium,Tier 1,Supermarket Type1,3673.8844
+FDF57,14.5,Regular,0.058918844,Fruits and Vegetables,169.7448,OUT049,1999,Medium,Tier 1,Supermarket Type1,3238.4512
+FDK56,9.695,Low Fat,0.130261652,Fruits and Vegetables,185.2898,OUT045,2002,,Tier 2,Supermarket Type1,3367.6164
+NCG18,15.3,Low Fat,0,Household,103.5332,OUT035,2004,Small,Tier 2,Supermarket Type1,3383.5956
+FDZ38,,Low Fat,0.007962273,Dairy,174.0422,OUT027,1985,Medium,Tier 3,Supermarket Type3,5173.266
+NCM06,,Low Fat,0.075361182,Household,155.6656,OUT027,1985,Medium,Tier 3,Supermarket Type3,3243.7776
+FDW52,14,Regular,0.037734782,Frozen Foods,166.4526,OUT017,2007,,Tier 2,Supermarket Type1,4769.1254
+FDY56,,Regular,0.062109174,Fruits and Vegetables,223.7062,OUT027,1985,Medium,Tier 3,Supermarket Type3,4965.5364
+NCD31,12.1,Low Fat,0.01545846,Household,166.0526,OUT049,1999,Medium,Tier 1,Supermarket Type1,3617.9572
+FDM25,10.695,Regular,0.060654268,Breakfast,174.7712,OUT035,2004,Small,Tier 2,Supermarket Type1,3339.6528
+FDR02,16.7,LF,0.022190488,Dairy,113.1886,OUT017,2007,,Tier 2,Supermarket Type1,3335.658
+FDF04,17.5,Low Fat,0,Frozen Foods,258.3304,OUT013,1987,High,Tier 3,Supermarket Type1,3358.2952
+FDT07,,Regular,0.076944658,Fruits and Vegetables,257.133,OUT027,1985,Medium,Tier 3,Supermarket Type3,7433.657
+FDW52,,Regular,0.037340835,Frozen Foods,163.1526,OUT027,1985,Medium,Tier 3,Supermarket Type3,3946.8624
+NCQ50,18.75,Low Fat,0,Household,213.3218,OUT035,2004,Small,Tier 2,Supermarket Type1,3419.5488
+FDQ21,21.25,Low Fat,0.019423232,Snack Foods,120.8756,OUT046,1997,Small,Tier 1,Supermarket Type1,3150.5656
+FDR32,6.78,Regular,0.08573655,Fruits and Vegetables,229.5694,OUT013,1987,High,Tier 3,Supermarket Type1,3425.541
+FDX31,20.35,Regular,0.014885998,Fruits and Vegetables,234.4958,OUT018,2009,Medium,Tier 3,Supermarket Type2,3271.7412
+FDS02,10.195,Regular,0.146692433,Dairy,194.5794,OUT017,2007,,Tier 2,Supermarket Type1,4096.6674
+FDT40,5.985,Low Fat,0.095715608,Frozen Foods,125.8678,OUT013,1987,High,Tier 3,Supermarket Type1,3560.6984
+FDN60,,Low Fat,0.094697274,Baking Goods,158.4604,OUT027,1985,Medium,Tier 3,Supermarket Type3,4278.4308
+FDI24,10.3,Low Fat,0.078903499,Baking Goods,177.637,OUT045,2002,,Tier 2,Supermarket Type1,4234.488
+DRC49,,LF,0.065119701,Soft Drinks,145.7128,OUT027,1985,Medium,Tier 3,Supermarket Type3,4026.7584
+FDF44,7.17,Regular,0.059820884,Fruits and Vegetables,130.3968,OUT049,1999,Medium,Tier 1,Supermarket Type1,3523.4136
+FDZ43,11,Regular,0.057058545,Fruits and Vegetables,241.7512,OUT046,1997,Small,Tier 1,Supermarket Type1,3635.268
+FDU02,13.35,Low Fat,0.1027194,Dairy,228.8352,OUT045,2002,,Tier 2,Supermarket Type1,5267.8096
+FDU58,6.61,Regular,0.029129907,Snack Foods,188.4898,OUT018,2009,Medium,Tier 3,Supermarket Type2,4677.245
+FDF05,,Low Fat,0.026740767,Frozen Foods,261.291,OUT027,1985,Medium,Tier 3,Supermarket Type3,5522.811
+FDP52,18.7,reg,0.070691729,Frozen Foods,230.201,OUT046,1997,Small,Tier 1,Supermarket Type1,5742.525
+NCV53,8.27,Low Fat,0.018920019,Health and Hygiene,238.088,OUT017,2007,,Tier 2,Supermarket Type1,6231.888
+FDX20,7.365,LF,0.042626422,Fruits and Vegetables,227.072,OUT049,1999,Medium,Tier 1,Supermarket Type1,4074.696
+FDD57,,Low Fat,0.022291121,Fruits and Vegetables,93.6094,OUT027,1985,Medium,Tier 3,Supermarket Type3,3713.1666
+NCU06,17.6,Low Fat,0.074345142,Household,230.901,OUT013,1987,High,Tier 3,Supermarket Type1,4364.319
+NCV53,8.27,Low Fat,0.018813601,Health and Hygiene,237.988,OUT046,1997,Small,Tier 1,Supermarket Type1,7190.64
+FDV31,9.8,LF,0,Fruits and Vegetables,175.237,OUT049,1999,Medium,Tier 1,Supermarket Type1,3881.614
+FDL45,,Low Fat,0.037505332,Snack Foods,126.2704,OUT027,1985,Medium,Tier 3,Supermarket Type3,4255.7936
+DRE01,10.1,Low Fat,0.167155198,Soft Drinks,241.7512,OUT046,1997,Small,Tier 1,Supermarket Type1,5331.7264
+FDF16,7.3,Low Fat,0.086132373,Frozen Foods,148.8076,OUT046,1997,Small,Tier 1,Supermarket Type1,3103.9596
+FDJ41,6.85,Low Fat,0.022976497,Frozen Foods,261.6594,OUT018,2009,Medium,Tier 3,Supermarket Type2,3401.5722
+NCN42,,Low Fat,0.014153743,Household,145.6418,OUT027,1985,Medium,Tier 3,Supermarket Type3,3825.6868
+FDR55,,Regular,0.131443921,Fruits and Vegetables,189.1872,OUT027,1985,Medium,Tier 3,Supermarket Type3,5294.4416
+FDH34,8.63,Low Fat,0.031095246,Snack Foods,185.7582,OUT046,1997,Small,Tier 1,Supermarket Type1,3529.4058
+NCY30,20.25,Low Fat,0.02594835,Household,180.0976,OUT035,2004,Small,Tier 2,Supermarket Type1,3440.8544
+NCL54,12.6,Low Fat,0.082921642,Household,175.2054,OUT045,2002,,Tier 2,Supermarket Type1,3502.108
+FDH41,,Low Fat,0.081614376,Frozen Foods,214.7534,OUT027,1985,Medium,Tier 3,Supermarket Type3,5806.4418
+FDB15,10.895,Low Fat,0.137023446,Dairy,263.7568,OUT049,1999,Medium,Tier 1,Supermarket Type1,7646.0472
+NCQ53,,low fat,0.018813776,Health and Hygiene,235.259,OUT027,1985,Medium,Tier 3,Supermarket Type3,5672.616
+FDY27,6.38,Low Fat,0.032028115,Dairy,178.3344,OUT018,2009,Medium,Tier 3,Supermarket Type2,3211.8192
+FDH35,18.25,Low Fat,0,Starchy Foods,164.7526,OUT045,2002,,Tier 2,Supermarket Type1,4604.6728
+DRH37,17.6,Low Fat,0.041851756,Soft Drinks,162.7526,OUT017,2007,,Tier 2,Supermarket Type1,3124.5994
+FDO12,15.75,Low Fat,0.054920146,Baking Goods,195.8452,OUT035,2004,Small,Tier 2,Supermarket Type1,4893.63
+NCQ54,17.7,Low Fat,0.012593467,Household,167.6474,OUT018,2009,Medium,Tier 3,Supermarket Type2,3874.2902
+DRA24,19.35,Regular,0.039920687,Soft Drinks,163.3868,OUT035,2004,Small,Tier 2,Supermarket Type1,3439.5228
+NCN05,8.235,Low Fat,0.014482153,Health and Hygiene,182.295,OUT049,1999,Medium,Tier 1,Supermarket Type1,3661.9
+FDZ43,,Regular,0.056782237,Fruits and Vegetables,241.2512,OUT027,1985,Medium,Tier 3,Supermarket Type3,8239.9408
+NCT42,,Low Fat,0.024766802,Household,151.0392,OUT027,1985,Medium,Tier 3,Supermarket Type3,3281.0624
+FDD26,8.71,Regular,0.072301795,Canned,185.6924,OUT045,2002,,Tier 2,Supermarket Type1,3331.6632
+FDE45,12.1,Low Fat,0.040521714,Fruits and Vegetables,178.5002,OUT018,2009,Medium,Tier 3,Supermarket Type2,5552.1062
+DRL01,19.5,Regular,0.077608838,Soft Drinks,233.4958,OUT017,2007,,Tier 2,Supermarket Type1,5375.0034
+FDB15,10.895,Low Fat,0.137584599,Dairy,262.2568,OUT017,2007,,Tier 2,Supermarket Type1,3954.852
+NCN19,13.1,Low Fat,0.012167988,Others,190.253,OUT017,2007,,Tier 2,Supermarket Type1,4174.566
+FDX36,9.695,Regular,0.128176489,Baking Goods,224.8404,OUT013,1987,High,Tier 3,Supermarket Type1,3600.6464
+FDV60,20.2,Regular,0,Baking Goods,197.211,OUT013,1987,High,Tier 3,Supermarket Type1,3535.398
+FDR51,,Regular,0.172629683,Meat,148.4708,OUT027,1985,Medium,Tier 3,Supermarket Type3,3761.77
+NCX06,17.6,Low Fat,0.015687045,Household,182.6976,OUT046,1997,Small,Tier 1,Supermarket Type1,3440.8544
+FDX56,17.1,Regular,0,Fruits and Vegetables,208.5638,OUT049,1999,Medium,Tier 1,Supermarket Type1,5383.6588
+DRA12,11.6,Low Fat,0,Soft Drinks,141.6154,OUT045,2002,,Tier 2,Supermarket Type1,3829.0158
+DRF37,17.25,Low Fat,0.084676173,Soft Drinks,263.191,OUT018,2009,Medium,Tier 3,Supermarket Type2,3944.865
+FDZ38,17.6,Low Fat,0.008046275,Dairy,173.7422,OUT017,2007,,Tier 2,Supermarket Type1,5863.0348
+NCB18,,Low Fat,0.041091215,Household,89.5514,OUT027,1985,Medium,Tier 3,Supermarket Type3,3364.9532
+FDU07,11.1,Low Fat,0.059835659,Fruits and Vegetables,151.3366,OUT035,2004,Small,Tier 2,Supermarket Type1,3022.732
+FDH34,8.63,Low Fat,0.031271134,Snack Foods,186.0582,OUT017,2007,,Tier 2,Supermarket Type1,3900.9222
+FDQ58,7.315,Low Fat,0.015364173,Snack Foods,154.334,OUT018,2009,Medium,Tier 3,Supermarket Type2,4287.752
+FDS39,,Low Fat,0.022351808,Meat,143.7812,OUT027,1985,Medium,Tier 3,Supermarket Type3,4986.842
+FDC34,16,Regular,0.173109453,Snack Foods,155.2972,OUT045,2002,,Tier 2,Supermarket Type1,3894.93
+FDC03,8.575,Regular,0.072252888,Dairy,196.5794,OUT017,2007,,Tier 2,Supermarket Type1,5267.1438
+DRI13,15.35,Low Fat,0.020310046,Soft Drinks,218.0508,OUT013,1987,High,Tier 3,Supermarket Type1,3038.7112
+DRN37,9.6,Low Fat,0,Soft Drinks,166.5158,OUT049,1999,Medium,Tier 1,Supermarket Type1,3509.4318
+FDG32,19.85,Low Fat,0.17635245,Fruits and Vegetables,220.8772,OUT045,2002,,Tier 2,Supermarket Type1,4225.1668
+FDS02,,Regular,0,Dairy,196.4794,OUT027,1985,Medium,Tier 3,Supermarket Type3,5852.382
+FDA03,,Regular,0.045243613,Dairy,146.8102,OUT027,1985,Medium,Tier 3,Supermarket Type3,3499.4448
+NCO42,,Low Fat,0.024536199,Household,144.6102,OUT027,1985,Medium,Tier 3,Supermarket Type3,3791.0652
+FDY31,,Low Fat,0.043351896,Fruits and Vegetables,146.6418,OUT027,1985,Medium,Tier 3,Supermarket Type3,4414.254
+FDO21,11.6,Regular,0.009818244,Snack Foods,223.1404,OUT017,2007,,Tier 2,Supermarket Type1,5175.9292
+NCZ53,9.6,Low Fat,0.024515221,Health and Hygiene,189.2214,OUT049,1999,Medium,Tier 1,Supermarket Type1,3956.8494
+NCF18,,Low Fat,0.088551694,Household,191.5504,OUT027,1985,Medium,Tier 3,Supermarket Type3,5944.2624
+NCR17,,Low Fat,0.02426524,Health and Hygiene,114.0492,OUT027,1985,Medium,Tier 3,Supermarket Type3,3938.8728
+FDR01,5.405,Regular,0.053730029,Canned,199.0742,OUT045,2002,,Tier 2,Supermarket Type1,4777.7808
+NCM43,,Low Fat,0.01938106,Others,164.321,OUT027,1985,Medium,Tier 3,Supermarket Type3,5546.114
+NCP18,,Low Fat,0.028459761,Household,149.9708,OUT027,1985,Medium,Tier 3,Supermarket Type3,4363.6532
+FDW28,18.25,Low Fat,0.089186083,Frozen Foods,194.3452,OUT018,2009,Medium,Tier 3,Supermarket Type2,4502.1396
+FDR27,,Regular,0.095635061,Meat,130.7942,OUT027,1985,Medium,Tier 3,Supermarket Type3,3047.3666
+NCR53,12.15,Low Fat,0.14526636,Health and Hygiene,224.0404,OUT049,1999,Medium,Tier 1,Supermarket Type1,3375.606
+FDK41,,LF,0.126924095,Frozen Foods,87.2224,OUT027,1985,Medium,Tier 3,Supermarket Type3,3494.1184
+FDJ21,16.7,Regular,0.03874616,Snack Foods,143.8102,OUT017,2007,,Tier 2,Supermarket Type1,4811.7366
+FDH34,8.63,Low Fat,0.031143591,Snack Foods,183.9582,OUT049,1999,Medium,Tier 1,Supermarket Type1,5386.9878
